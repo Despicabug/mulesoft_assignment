@@ -2,7 +2,7 @@
 
 ## A simple java application using sqlite.
 
-#### All main files in ./src/net.movies/SQLiteConnection.java
+#### Main file is ./src/net.movies/SQLiteConnection.java
 
 #### Three Operations available
 * Insert Data
